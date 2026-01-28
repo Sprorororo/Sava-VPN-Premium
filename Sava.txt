@@ -8,5 +8,5 @@ vless://d2d79fd8-a3d4-4792-9766-e472e1fe8a5f@0.0.0.0:443?security=reality&type=t
 vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@yandex-1.ultima.foundation:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=edge&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=#1.%20%F0%9F%87%B3%F0%9F%87%B1%20Premium%20LTE%20Sava%20VPN%F0%9F%98%9D
 vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@yandex-2.ultima.foundation:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=#%F0%9F%87%B3%F0%9F%87%B1%202.%20Premium%20LTE%20Sava%20VPN%F0%9F%98%9D
 vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@ru-cdn-cloud.ultima.foundation:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=m.vk.ru&fp=qq&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=#%F0%9F%87%B3%F0%9F%87%B1%203.%20Premium%20LTE%20Sava%20VPN%F0%9F%98%9D
-vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@ru.ultima.foundation:22231?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=m.vk.ru&fp=qq&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=#%F0%9F%9B%A1%EF%B8%8F%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20whitelist%20Sava%20VPN%20%E2%AC%87%EF%B8%8F
+
 
