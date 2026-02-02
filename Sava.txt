@@ -1,3 +1,4 @@
 #profile-update-interval: 1
 #profile-title: Sava VPN
 #announce: Обнова нах
+vless://d2d79fd8-a3d4-4792-9766-e472e1fe8a5f@0.0.0.0:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%D0%B8%D0%B4%D0%B5%D1%82%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%98%D0%94%D0%98%20%D0%9D%D0%90%D0%A5%D0%A3%D0%99
