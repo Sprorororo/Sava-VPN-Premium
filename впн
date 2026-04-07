@@ -1,6 +1,6 @@
 #profile-update-interval: 1
-#profile-title: Sava VPN 67691488
-#announce: Хуёвый впн от Савы❤️‍🔥) 🌟-работает Gemini ⚡-Ютуб без рекламы. сиксевен
+#profile-title: Sava VPN 
+#announce: Временно не работают основные LTE сервера, присутствует 5 временных российских.🌟-работает Gemini ⚡-Ютуб без рекламы. 
 
 vless://0037fe25-49db-4624-a4d6-e104574402e4@217.16.23.152:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇷🇺 🍓 Авто - Обход LTE Россия
 vless://0037fe25-49db-4624-a4d6-e104574402e4@51.250.31.96:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇳🇱 🔞 Авто - Обход LTE Зарубежный
@@ -18,7 +18,13 @@ vless://0037fe25-49db-4624-a4d6-e104574402e4@117.55.202.121:443?security=reality
 
 vless://173ae4f9-eccb-4b16-aed1-f128337f68b5@auto.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#⬇️ Обход LTE❤️‍🔥 ⬇️
 vless://0037fe25-49db-4624-a4d6-e104574402e4@195.47.238.13:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#⬇️ Сначала пробуем эти ⬇️
-vless://0037fe25-49db-4624-a4d6-e104574402e4@51.250.20.122:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=eh.vk.com&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇷🇺 ⚡️ 11 LTE - Россия
+vless://df93c065-1c1b-4524-ac44-8d4fede34724@217.16.29.201:4443?security=reality&encryption=none&pbk=CyOxFgG6NlP9lkJLVtY9ylIa2uPzIHhC01C377HYwFo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=max.ru&sid=b4#%F0%9F%87%B7%F0%9F%87%BA+%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+LTE+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%E2%84%961
+vless://4327a67f-c2f9-4664-942c-eaa94aef9243@51.250.33.221:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=c4caf3f1848a#%F0%9F%87%B7%F0%9F%87%BA+%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+LTE+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%E2%84%962
+vless://a96f18f0-4a56-4c4f-be6e-434835f5523c@84.201.169.59:443?security=reality&encryption=none&pbk=e6QVzqAw4kvQHxdu2pFsLnadziIWm9DjOo2rul_NgAk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=8ac77e6b777376f8#%F0%9F%87%B7%F0%9F%87%BA+%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+LTE+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%E2%84%963
+vless://37c2dec2-0831-42d4-ac4e-53f4959260b0@51.250.24.171:4443?security=reality&encryption=none&pbk=AZDTIuFYkuSXYWnHFLxFpzWM5wenXFv3zSJ3183DCjQ&headerType=none&fp=qq&allowinsecure=0&type=tcp&sni=max.ru&sid=bc0f9a1781b7ba#%F0%9F%87%B7%F0%9F%87%BA+%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+LTE+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%E2%84%964
+vless://2d7377b8-aed6-4046-bfd6-d19a241cdd95@109.120.189.207:443?security=reality&encryption=none&pbk=CF466523CTyWo8ekZMcVPHO18gOy4ODyKSWwusJVWVI&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=5FA44664f6a566d3#%F0%9F%87%B7%F0%9F%87%BA+%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+LTE+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%E2%84%965
+
+vless://0037fe25-49db-4624-a4d6-e104574402e4@51.250.20.122:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=eh.vk.com&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇷🇺 ⚡️ 11 LTE - Росси
 vless://0037fe25-49db-4624-a4d6-e104574402e4@178.154.228.190:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇷🇺 ⚡️ 11.2 LTE - Россия
 vless://0037fe25-49db-4624-a4d6-e104574402e4@217.16.24.22:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇷🇺 ⚡️ 11.3 LTE - Россия
 vless://0037fe25-49db-4624-a4d6-e104574402e4@217.16.23.152:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=eh.vk.com&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇳🇱 ⚡️ 12 LTE - Нидерланды | Torrent ✅
