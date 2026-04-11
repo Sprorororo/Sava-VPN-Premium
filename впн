@@ -1,11 +1,14 @@
 #profile-update-interval: 1
 #profile-title: Sava VPN 
-#announce: НА LTE СЕРВЕРАХ ОГРАНИЧЕНИЕ 100 ГБ В МЕСЯЦ. Если белые списки не действуют, используйте обычные сервера.🌟-работает Gemini ⚡-Ютуб без рекламы. 
+#announce: НА LTE СЕРВЕРАХ ОГРАНИЧЕНИЕ 100 ГБ В МЕСЯЦ. 0.5Х- трафик расходуется в 2 раза меньше🌟-работает Gemini ⚡-Ютуб без рекламы. 
 #profile-web-page-url: https://github.com/Sprorororo/Sava-VPN-Premium/blob/main/%D0%B2%D0%BF%D0%BD
 #subscription-userinfo: upload=14260633600; download=0; total=107374182400; expire=1772409600
-
+vless://0037fe25-49db-4624-a4d6-e104574402e4@158.160.137.139:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇳🇱 🔞 1X - LTE Авто - Зарубежный
 vless://d2d79fd8-a3d4-4792-9766-e472e1fe8a5f@00.0.0:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%98%9D%20Sava%20VPN%F0%9F%98%9D%20-%20%D0%BD%D0%B5%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%E2%AC%87%EF%B8%8F
-quattro
+vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@recovery.yandex.bar:41028?encryption=none&type=grpc&serviceName=translate&mode=gun&security=reality&sni=deepl.com&fp=edge&pbk=-4ue2cpx1KD3qU82aWa0uCvGQLFqwwOdgJw-1yT1OUA&sid=24d8c27162ed7a81#%F0%9F%87%B3%F0%9F%87%B1%20%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@api.maps-yandex.net:22231?encryption=none&type=grpc&serviceName=api&mode=gun&security=reality&sni=deepl.com&fp=qq&pbk=9rRlBHQARx0diBZvXRNC1Tho8kgdj4iF6wBPJQXLjTc&sid=cf2ef841ab42dc7d#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
+vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@lt1.ultima.foundation:22231?encryption=none&type=grpc&serviceName=api&mode=gun&security=reality&sni=apple.com&fp=qq&pbk=E-9l9PMGwPKHbnywXnuZQ6Qqt_HR6HQDLiEA7GBzSDc&sid=a5e63a14efad45c2#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0%20%E2%80%94%20YouTube
+
 vless://0037fe25-49db-4624-a4d6-e104574402e4@152.53.19.107:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=at.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇦🇹 ⭐️ Австрия
 vless://0037fe25-49db-4624-a4d6-e104574402e4@109.69.218.48:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=be.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇧🇪 ⚡️ Бельгия
 vless://0037fe25-49db-4624-a4d6-e104574402e4@uk.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=uk.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇬🇧 ⚡️ Великобритания
@@ -17,6 +20,7 @@ vless://0037fe25-49db-4624-a4d6-e104574402e4@117.55.202.121:443?security=reality
 
 vless://173ae4f9-eccb-4b16-aed1-f128337f68b5@auto.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#⬇️ Обход LTE❤️‍🔥 ⬇️
 vless://0037fe25-49db-4624-a4d6-e104574402e4@195.47.238.13:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#⬇️ Сначала пробуем эти ⬇️
+vless://0037fe25-49db-4624-a4d6-e104574402e4@178.248.238.85:11443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=rutube.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇩🇪 🎮 ⭐️ 0.5X - LTE №0 - Игровой
 vless://0037fe25-49db-4624-a4d6-e104574402e4@178.248.238.85:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇳🇱 ⚡️ 1X - LTE №1 - Torrent ✅
 vless://0037fe25-49db-4624-a4d6-e104574402e4@178.248.238.85:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=rutube.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇳🇱 ⚡️ 1X - LTE №2 - Torrent ✅
 vless://0037fe25-49db-4624-a4d6-e104574402e4@51.250.20.122:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇳🇱 ⚡️ 1X - LTE №3 - Torrent ✅
@@ -33,10 +37,5 @@ vless://0037fe25-49db-0009-a4d6-e104574402e4@51.250.31.96:8443?encryption=none&f
 vless://0037fe25-49db-0009-a4d6-e104574402e4@158.160.166.185:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ads.x5.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇸🇪 🎮 ⚡️ 1X - LTE №16 - Игровой
 vless://0037fe25-49db-0005-a4d6-e104574402e4@51.250.100.185:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=eh.vk.com&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇹🇷 1X - LTE №17 - Турция
 
-vless://1cab822f-844d-4ca3-961c-1e3ca9a92b71@84.201.132.179:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%AA%F0%9F%87%BA+%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+1
-vless://1cab822f-844d-4ca3-961c-1e3ca9a92b71@158.160.162.80:9443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%AA%F0%9F%87%BA+%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+2+GRPC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNkVqOGROMnJ4SzNaeE0yV1dfdDhySEFQQlpZSHE5UQ==@158.160.162.80:1080#%F0%9F%87%AA%F0%9F%87%BA+%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+2+SS
-vless://1cab822f-844d-4ca3-961c-1e3ca9a92b71@158.160.162.80:8443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ir-2.ozone.ru#%F0%9F%87%AA%F0%9F%87%BA+%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+2
-vless://1cab822f-844d-4ca3-961c-1e3ca9a92b71@84.201.132.179:8443?mode=auto&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&pbk=8Wb7DfK3p97KYIBDUxTZRHkG8PomTfA28gJ2qdFA808&spx=%2F&allowinsecure=0&type=xhttp&sni=01.img.avito.st#%F0%9F%87%AA%F0%9F%87%BA+%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+1+xHTTP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNkVqOGROMnJ4SzNaeE0yV1dfdDhySEFQQlpZSHE5UQ==@84.201.132.179:1080#%F0%9F%87%AA%F0%9F%87%BA+%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA++1+SS
+
 
