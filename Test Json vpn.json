@@ -9,8 +9,233 @@
       "link": "vless://bdae5c88-30ba-4a52-9d9f-d02a34691636@89.105.204.107:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=auto.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6"
     },
     {
-      "name": "🇪🇺💎 Авто | Самый быстрый [LTE]",
-      "link": "vless://d228e1c8-5655-4546-b0ba-16dea69b334d@217all.ghost-lan.com:443?security=reality&encryption=none&pbk=O98FQZTRYOSk7c0sWes9pLZEX4oIE9lA_cZb6c3AHTU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=24a8e8f8b85dad93"
+  "log": {
+    "dnsLog": true,
+    "loglevel": "error"
+  },
+  "routing": {
+    "rules": [
+      {
+        "ip": [
+          "10.0.0.0/8",
+          "100.64.0.0/10",
+          "127.0.0.0/8",
+          "172.16.0.0/12",
+          "192.168.0.0/16",
+          "169.254.0.0/16",
+          "224.0.0.0/4",
+          "255.255.255.255"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "network": "tcp,udp",
+        "balancerTag": "LTE-Balancer"
+      }
+    ],
+    "balancers": [
+      {
+        "tag": "LTE-Balancer",
+        "selector": [
+          "lte"
+        ],
+        "strategy": {
+          "type": "leastLoad",
+          "settings": {
+            "maxRTT": "3000ms",
+            "expected": 2
+          }
+        }
+      }
+    ],
+    "domainMatcher": "hybrid",
+    "domainStrategy": "IPIfNonMatch"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "udp": true,
+        "auth": "noauth"
+      },
+      "sniffing": {
+        "enabled": true,
+        "routeOnly": false,
+        "destOverride": [
+          "tls",
+          "http",
+          "quic"
+        ],
+        "metadataOnly": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "routeOnly": false,
+        "destOverride": [
+          "tls",
+          "http",
+          "quic"
+        ],
+        "metadataOnly": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "lte",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "217all.ghost-lan.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "d228e1c8-5655-4546-b0ba-16dea69b334d",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {},
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "eh.vk.com",
+          "publicKey": "O98FQZTRYOSk7c0sWes9pLZEX4oIE9lA_cZb6c3AHTU",
+          "shortId": "24a8e8f8b85dad93",
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "lte-2",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "95sub.ghost-lan.com",
+            "port": 8443,
+            "users": [
+              {
+                "id": "d228e1c8-5655-4546-b0ba-16dea69b334d",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {},
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "max.ru",
+          "publicKey": "WJfeuAhf8_mCibDJthlxjZSaeE3hopQmxqGduF5VPBY",
+          "shortId": "119e397a1288d20b",
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "lte-3",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "95sub.ghost-lan.com",
+            "port": 8442,
+            "users": [
+              {
+                "id": "d228e1c8-5655-4546-b0ba-16dea69b334d",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {},
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "max.ru",
+          "publicKey": "TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg",
+          "shortId": "a7f9106ba66e4796",
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "lte-4",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "95sub.ghost-lan.com",
+            "port": 8444,
+            "users": [
+              {
+                "id": "d228e1c8-5655-4546-b0ba-16dea69b334d",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {},
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "max.ru",
+          "publicKey": "7VTXdJjpKAAMXqSdBFKRsjdwGIyqTDleUCCW-cG06EQ",
+          "shortId": "6e9627434750d247",
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      }
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "burstObservatory": {
+    "pingConfig": {
+      "timeout": "5s",
+      "interval": "36s",
+      "sampling": 5,
+      "httpMethod": "HEAD",
+      "destination": "http://connectivitycheck.gstatic.com/generate_204",
+      "connectivity": ""
+    },
+    "subjectSelector": [
+      "lte"
+    ]
+  },
+  "remarks": "🇪🇺💎 Авто | Самый быстрый [LTE]"
     },
     {
       "name": "🇳🇱 Нидерланды",
