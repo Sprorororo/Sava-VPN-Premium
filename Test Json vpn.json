@@ -1,0 +1,56 @@
+{
+  "profileTitle": "Sava VPN",
+  "profileUpdateInterval": 1,
+  "announce": "Лучший VPN от Савы❤️‍🔥",
+  "subscriptionUserinfo": "upload=148900000000; download=0; total=161061273600; expire=1779926400",
+  "servers": [
+    {
+      "name": "💎 Авто | Самый быстрый ⚡⚡️⚡️",
+      "link": "vless://bdae5c88-30ba-4a52-9d9f-d02a34691636@89.105.204.107:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=auto.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6"
+    },
+    {
+      "name": "🇪🇺💎 Авто | Самый быстрый [LTE]",
+      "link": "vless://d228e1c8-5655-4546-b0ba-16dea69b334d@217all.ghost-lan.com:443?security=reality&encryption=none&pbk=O98FQZTRYOSk7c0sWes9pLZEX4oIE9lA_cZb6c3AHTU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=24a8e8f8b85dad93"
+    },
+    {
+      "name": "🇳🇱 Нидерланды",
+      "link": "vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@icloud.appl.ltd:49713?encryption=none&security=reality&fp=safari&pbk=pGzh3GwmrF0mOYuWf9N6J0xXtecBJGgeRN0c8s9iWVg&sid=c51b2799f0a2fda4&sni=apple.com&type=grpc&serviceName=ws&mode=gun"
+    },
+    {
+      "name": "🇳🇱 Нидерланды #2",
+      "link": "vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@webhook.yandex.bar:41028?encryption=none&type=grpc&serviceName=translate&mode=gun&security=reality&sni=deepl.com&fp=edge&pbk=-4ue2cpx1KD3qU82aWa0uCvGQLFqwwOdgJw-1yT1OUA&sid=24d8c27162ed7a81"
+    },
+    {
+      "name": "🇸🇪 Швеция",
+      "link": "vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@oauth.figmafound.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=oauth.figmafound.org&fp=ios&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&sid=fc67691a4440a84b"
+    },
+    {
+      "name": "🇩🇪 Германия",
+      "link": "vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@play.roxgame.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=play.roxgame.online&fp=safari&pbk=KHqdk9JwWlfq-hFxSnX9oNfYnBvHPJhibzf1i9b9JjI&sid=6511c959128736f7"
+    },
+    {
+      "name": "🇱🇹 Литва — YouTube",
+      "link": "vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@lt1.maps-yandex.net:22231?encryption=none&type=grpc&serviceName=api&mode=gun&security=reality&sni=apple.com&fp=qq&pbk=E-9l9PMGwPKHbnywXnuZQ6Qqt_HR6HQDLiEA7GBzSDc&sid=a5e63a14efad45c2"
+    },
+    {
+      "name": "⬇️ Обход LTE❤️‍🔥 ⬇️",
+      "link": "vless://173ae4f9-eccb-4b16-aed1-f128337f68b5@auto.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6"
+    },
+    {
+      "name": "LTE — Россия Безлимитный",
+      "link": "vless://d228e1c8-5655-4546-b0ba-16dea69b334d@217all.ghost-lan.com:443?security=reality&encryption=none&pbk=O98FQZTRYOSk7c0sWes9pLZEX4oIE9lA_cZb6c3AHTU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=24a8e8f8b85dad93"
+    },
+    {
+      "name": "LTE — Германия Безлимитный",
+      "link": "vless://d228e1c8-5655-4546-b0ba-16dea69b334d@95sub.ghost-lan.com:8443?security=reality&encryption=none&pbk=WJfeuAhf8_mCibDJthlxjZSaeE3hopQmxqGduF5VPBY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=119e397a1288d20b"
+    },
+    {
+      "name": "LTE — Эстония Безлимитный",
+      "link": "vless://d228e1c8-5655-4546-b0ba-16dea69b334d@95sub.ghost-lan.com:8442?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&sid=a7f9106ba66e4796&type=tcp"
+    },
+    {
+      "name": "LTE — Нидерланды Безлимитный",
+      "link": "vless://d228e1c8-5655-4546-b0ba-16dea69b334d@95sub.ghost-lan.com:8444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=7VTXdJjpKAAMXqSdBFKRsjdwGIyqTDleUCCW-cG06EQ&sid=6e9627434750d247&type=tcp"
+    }
+  ]
+}
