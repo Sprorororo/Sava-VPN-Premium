@@ -1,43 +1,19 @@
+#profile-update-interval: 1
+#profile-title: Sava VPN
+#announce:Лучший VPN от Савы ❤️‍🔥.                                                                                 ⚡ - YouTube без рекламы. ⭐ - работает Gemini. кто читает тот лох😝😝😝
+#subscription-userinfo: upload=7366010923008; download=0; total=73667279060992; expire=1798473600
 
-1) Что такое копирование?
 
-В КОМПАС-3D копирование — это создание одного или нескольких экземпляров выбранных объектов (тел, граней, элементов) с сохранением их формы и параметров .
+vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@webhook.yandex.bar:41028/?type=grpc&encryption=none&flow=&serviceName=translate&sni=deepl.com&fp=edge&security=reality&pbk=-4ue2cpx1KD3qU82aWa0uCvGQLFqwwOdgJw-1yT1OUA&sid=24d8c27162ed7a81#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9A%A1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20
+vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@lt4.maps-yandex.net:22231/?type=grpc&encryption=none&flow=&serviceName=api&sni=apple.com&fp=qq&security=reality&pbk=E-9l9PMGwPKHbnywXnuZQ6Qqt_HR6HQDLiEA7GBzSDc&sid=a5e63a14efad45c2#%F0%9F%87%B1%F0%9F%87%B9%20%E2%9A%A1%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0%20
+vless://d228e1c8-5655-4546-b0ba-16dea69b334d@br-cloud1.ghost-lan.com:8442/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&sid=a7f9106ba66e4796#%F0%9F%87%AA%F0%9F%87%AA%20%E2%AD%90%20%E2%9A%A1%EF%B8%8F%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
+vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@play.roxgame.online:10630/?type=grpc&encryption=none&flow=&serviceName=log&sni=deepl.com&fp=safari&security=reality&pbk=RGFMZYG7bZSl209szG0iEkFYcxbpIJBI_8lEym8zmTc&sid=99f344b47d8d1d7b#%F0%9F%87%A9%F0%9F%87%AA%20%E2%AD%90%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://173ae4f9-eccb-4b16-aed1-f128337f68b5@auto.quattro-tech.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%E2%AC%87%EF%B8%8F%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%E2%AC%87%EF%B8%8F
+vless://abc64262-6428-0019-a33e-cae4f0f30781@46.8.209.133:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%AC%F0%9F%87%A7%20%E2%9A%A1%EF%B8%8F%20LTE%20-%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20
+vless://abc64262-6428-0009-a33e-cae4f0f30781@81.94.148.204:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=player.mediavitrina.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%8E%AE%20%E2%9A%A1%EF%B8%8F%20LTE%20-%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
+vless://abc64262-6428-0012-a33e-cae4f0f30781@46.8.209.129:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1%EF%B8%8F%20LTE%20-%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://abc64262-6428-0006-a33e-cae4f0f30781@46.8.209.133:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B1%F0%9F%87%BB%20%E2%9A%A1%EF%B8%8F%20LTE%20-%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F
+vless://d228e1c8-5655-4546-b0ba-16dea69b334d@95sub.ghost-lan.com:8442/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&sid=a7f9106ba66e4796#%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%AD%90%20%E2%9A%A1%20LTE%20%E2%80%94%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
+vless://d228e1c8-5655-4546-b0ba-16dea69b334d@95sub.ghost-lan.com:8444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=bqLr1d3mbuP10WAYxWj8OEdSuZlVvrywrKq2U6ACw2w&sid=12b9ecabbf3a3b88#%F0%9F%87%B3%F0%9F%87%B1%20%E2%AD%90%20%E2%9A%A1%20LTE%20%E2%80%94%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://d228e1c8-5655-4546-b0ba-16dea69b334d@95sub.ghost-lan.com:8446/?type=grpc&encryption=none&flow=&serviceName=grpc-tuning-stream&sni=max.ru&fp=chrome&security=reality&pbk=xTk5dX6E0DGuQj19bWDMafx13XoUK8euqlmtwJIg8wY&sid=8a7137d4e9c49b9c#%F0%9F%87%B7%F0%9F%87%BA%E2%AD%90%20%E2%9A%A1%20LTE%20%E2%80%94%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 
-Для создания множества копий по определенным правилам используются специальные команды (массивы). Они доступны через меню Операции или на панели Редактирование детали .
-
-2) Как выполняется копирование объекта при операции «массив по концентрической сетке»?
-
-Эта операция размещает копии в узлах сетки, образованной окружностями (радиальное направление) и лучами (кольцевое направление) .
-
-Порядок действий:
-
-1. Выделите исходные элементы в окне модели или в Дереве построения.
-2. Вызовите команду: Операции → Массив по концентрической сетке .
-3. Укажите Ось: нажмите на поле Ось на Панели свойств и выберите в модели прямолинейное ребро или ось вращения. Плоскость сетки будет перпендикулярна этой оси, а центр — в точке пересечения .
-4. Настройте параметры:
-   · Радиальное направление (кольца): количество и шаг (расстояние между кольцами) .
-   · Кольцевое направление (сектора): количество и угловой шаг (например, для 6 копий укажите шаг 60°) .
-5. При необходимости включите опцию «Доворачивать копии до радиального направления», чтобы копии поворачивались вслед за лучами сетки .
-6. Нажмите «Создать объект» .
-
-3) Как влияет выбор оси на конечное изображение?
-
-Ось напрямую определяет центр и ориентацию всего массива, а также количество доступных направлений .
-
-· Ось проходит через базовую точку исходного объекта: Копирование возможно только по кольцу (все копии будут на одной окружности). Копирование по радиусу (создание колец) станет недоступно .
-· Ось смещена относительно базовой точки: Массив будет включать оба направления (кольца и радиусы). При этом элемент будет равномерно размножаться во все стороны от заданной оси .
-· Итог: Положение оси решает, получите вы «диск» из элементов или просто «кольцо» вокруг центра.
-
-4) Как выполнить твердотельное моделирование детали?
-
-Вы сказали, что нужно построить деталь по рисунку, но сам рисунок не приложили.
-
-Если вы пришлете изображение, я предложу пошаговую инструкцию специально для КОМПАС-3D (какую плоскость выбрать для эскиза, выдавливать или вырезать, где применить скругления).
-
-Пока же ориентируйтесь на общий алгоритм для КОМПАС-3D (на примере детали «Вилка» из инструкции):
-
-1. Создайте документ: Файл → Создать → Деталь .
-2. Настройте свойства: задайте имя, материал и цвет через Управление → Свойства модели .
-3. Постройте основание: создайте эскиз на плоскости (например, XY) и используйте операцию «Элемент выдавливания» .
-4. Создайте остальные элементы: бобышки, ребра, отверстия. Используйте операции «Приклеить выдавливанием» и «Вырезать выдавливанием» .
-5. Примените массив: для повторяющихся элементов (например, 4 бобышек или вентиляционных отверстий) используйте описанный выше «Массив по концентрической сетке» или «Зеркальный массив», если элементы симметричны .
