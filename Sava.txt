@@ -1,7 +1,41 @@
 #profile-update-interval: 1
-#profile-title: Sava VPN
-#announce:Лучший VPN от Савы ❤️‍🔥.                                                                                 ⚡ - YouTube без рекламы. ⭐ - работает Gemini. кто читает тот лох😝😝😝
+#profile-title: Sava VPN🫪🫪🫪
+#announce:Лучший VPN от Савы ❤️‍🔥.                                                                                 ⚡ - YouTube без рекламы. ⭐ - работает Gemini. кто читает тот лох😝😝😝🫪🫪🫪
 #subscription-userinfo: upload=7366010923008; download=0; total=73667279060992; expire=1798473600
+
+
 vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@webhook.yandex.bar:41028/?type=grpc&encryption=none&flow=&serviceName=translate&sni=deepl.com&fp=edge&security=reality&pbk=-4ue2cpx1KD3qU82aWa0uCvGQLFqwwOdgJw-1yT1OUA&sid=24d8c27162ed7a81#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9A%A1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20
 vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@play.roxgame.online:10630/?type=grpc&encryption=none&flow=&serviceName=log&sni=deepl.com&fp=safari&security=reality&pbk=RGFMZYG7bZSl209szG0iEkFYcxbpIJBI_8lEym8zmTc&sid=99f344b47d8d1d7b#%F0%9F%87%A9%F0%9F%87%AA%20%E2%AD%90%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@lt5.maps-yandex.net:22231?encryption=none&type=grpc&serviceName=api&mode=gun&security=reality&sni=apple.com&fp=qq&pbk=E-9l9PMGwPKHbnywXnuZQ6Qqt_HR6HQDLiEA7GBzSDc&sid=a5e63a14efad45c2#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0%20%E2%80%94%20YouTube
+vless://abc64262-6428-0067-a33e-cae4f0f30781@178.236.25.162:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6# Обход глушилок👇👇👇
+vless://abc64262-6428-0067-a33e-cae4f0f30781@178.236.25.162:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇷🇺 🎮 ⚡ LTE - Россия #1 - МСК🫪
+
+vless://abc64262-6428-4f2e-a33e-cae4f0f30781@178.236.25.162:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇳🇱 ⚡ LTE - Нидерланды #2 | Torrent✅🫪
+
+vless://abc64262-6428-0009-a33e-cae4f0f30781@178.236.25.162:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇸🇪 🎮 ⚡ LTE - Швеция #3🫪
+
+vless://abc64262-6428-0009-a33e-cae4f0f30781@176.109.88.225:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇸🇪 🎮 ⚡ LTE - Швеция #4🫪
+
+vless://abc64262-6428-0009-a33e-cae4f0f30781@78.159.250.218:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=player.mediavitrina.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇸🇪 🎮 ⚡ LTE - Швеция #5🫪
+
+vless://abc64262-6428-000a-a33e-cae4f0f30781@178.236.25.162:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇪🇪 🎮 ⭐ LTE - Эстония #6🫪
+
+vless://abc64262-6428-000a-a33e-cae4f0f30781@176.109.88.80:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇪🇪 🎮 ⭐ LTE - Эстония #7🫪
+
+vless://abc64262-6428-0012-a33e-cae4f0f30781@176.109.88.80:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇩🇪 🎮 ⚡ ⭐ LTE - Германия #8🫪
+
+vless://abc64262-6428-000e-a33e-cae4f0f30781@176.109.88.225:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇫🇮 🎮 ⚡ ⭐ LTE - Финляндия #9🫪
+
+vless://abc64262-6428-000e-a33e-cae4f0f30781@178.236.25.162:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇫🇮 🎮 ⚡ ⭐ LTE - Финляндия #10🫪
+
+vless://abc64262-6428-001e-a33e-cae4f0f30781@178.236.25.167:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇫🇮 🎮 ⭐ LTE - Финляндия #11🫪
+
+vless://abc64262-6428-001e-a33e-cae4f0f30781@176.109.88.225:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇫🇮 🎮 ⭐ LTE - Финляндия #12🫪
+
+vless://abc64262-6428-0019-a33e-cae4f0f30781@178.236.25.162:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇬🇧 ⚡ LTE - Великобритания #13🫪
+
+vless://abc64262-6428-000c-a33e-cae4f0f30781@178.236.25.162:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇮🇹 🎮 ⭐ LTE - Италия #14🫪
+
+vless://abc64262-6428-001a-a33e-cae4f0f30781@178.236.25.167:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇩🇪 🎮 ⭐ LTE - Германия #15🫪
+
+vless://abc64262-6428-0006-a33e-cae4f0f30781@178.236.25.162:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇱🇻 🎮 ⚡ LTE - Латвия #16🫪
