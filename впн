@@ -1,7 +1,7 @@
 #profile-update-interval: 1
 #profile-title: Sava VPN 🫪😝❤️‍🔥
 #announce: LTE—Только при белых списках. Чтобы увидеть рабочие сервера,тип пинга лучше поставить Via Proxy GET
-upload=7366010923008;download=0; total=73667279060992;expire=1798473600
+upload=7366010923008; download=0; total=73667279060992; expire=1798473600
 
 vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@trust2.figmafound.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=trust2.figmafound.org&fp=firefox&security=reality&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&sid=711ad7f475c35e5e#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
 vless://c380ffb4-73b7-41c7-a22a-8d2e68cafd60@yandexb2b.email:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandexb2b.email&fp=firefox&security=reality&pbk=yCSiOQi1o9XEijeaiX3pkDT4RSQKkC7h0D1fczFDUkI&sid=ef8c59f9edeb6df6#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
